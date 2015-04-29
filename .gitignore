@@ -23,6 +23,12 @@ _testmain.go
 *.test
 *.prof
 
+# Mac stuff
+.DS_Store
 
 # Ignore the installed tools
 tools
+
+# Ignore some data folders
+sequences
+cephylopods-transfer
